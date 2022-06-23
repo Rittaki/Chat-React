@@ -18,7 +18,7 @@ function App() {
                 </Routes>
             </BrowserRouter>
             <div class="review-button">
-                <a class="review-link" href='https://localhost:7038/Reviews' type="button">Click here to see other customers reviews</a>
+                <a class="review-link" href='http://localhost:7038/Reviews' type="button">Click here to see other customers reviews</a>
             </div>
         </div>
     );
